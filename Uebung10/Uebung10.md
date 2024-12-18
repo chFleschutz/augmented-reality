@@ -18,5 +18,5 @@
 
 5. X-Ray/Fenster-Effekte
 
-    Ein X-Ray Effekt wird nicht benötig.
+    Ein X-Ray Effekt wird nicht benötigt.
 
